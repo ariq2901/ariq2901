@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Adobe XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
